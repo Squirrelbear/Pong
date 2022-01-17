@@ -18,6 +18,8 @@
 
 This document will explain the fundamentals of how the Pong game works. 
 
+- ([Youtube Demo](https://youtu.be/b3IgHdTLo8k))
+
 # 1.3 The Rules of Pong
 
 Pong has a very simple set of rules with only a few moving pieces. For the version in this example code,
